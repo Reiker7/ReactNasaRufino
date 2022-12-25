@@ -1,0 +1,45 @@
+
+body {
+  background-image: url("https://lledogrupo.com/wp-content/uploads/2018/04/white-img.jpg");
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.menuC{
+  margin-left: 2%;
+}
+body{
+  background-color: white;
+  background-image: url("https://lledogrupo.com/wp-content/uploads/2018/04/white-img.jpg");
+
+}
+.btnH{
+    color:  	darkslategrey;
+    background: 	lightgray;
+    margin: 0px 0px 0px 1%;
+    padding: 0px 10px 0px 10px;
+    text-decoration: none; 
+}
+.btnH:hover {
+  background: 	lightsteelblue;
+}
+
+.nav2 {
+  background-color: lightgray;
+}
+.leaflet-container {
+  width: 100%;
+  height: 90vh;
+}
+a:link {
+  text-decoration: none;
+
+}
